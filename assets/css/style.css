@@ -1,3 +1,5 @@
+/*reorganized the css so it flows with the html code*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -25,7 +27,7 @@ header h1 {
 
 header h1 .seo {
     /* color: #dcd6d6; */
-    color: red;
+    color: #dcd6d6;
 }
 
 header nav {
